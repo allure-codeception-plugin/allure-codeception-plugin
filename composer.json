@@ -1,5 +1,5 @@
 {
-    "name": "allure-codeception-custom/allure-codeception-custom",
+    "name": "allure-codeception-plugin/allure-codeception-plugin",
     "description": "A fork of the Codeception adapater for Allure report.",
     "type": "library",
     "homepage": "http://allure.qatools.ru/",
